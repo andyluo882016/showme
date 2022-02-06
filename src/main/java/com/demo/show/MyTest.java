@@ -1,3 +1,5 @@
+package com.demo.show;
+
 public class MyTest {
 
     String id;
@@ -22,7 +24,7 @@ public class MyTest {
         this.id =id;
         this.name=name;
     }
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println("Test me");
     }
 }
